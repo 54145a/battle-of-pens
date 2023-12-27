@@ -5,7 +5,7 @@
 https://dao3.fun/play/97e51eed82267dc4a03e
 
 ## 自部署
-通过hash获得代码。模型可以在Dao3(https://dao3.fun)自行搜索。
+通过hash获得代码。模型可以在Dao3( https://dao3.fun )自行搜索。
 
 ### 运行环境
 * Createra https://createra.fun
