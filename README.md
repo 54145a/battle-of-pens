@@ -7,6 +7,11 @@ https://dao3.fun/play/97e51eed82267dc4a03e
 ## 自部署
 通过hash获得代码。模型可以在Dao3( https://dao3.fun )自行搜索。
 
+### 依赖
+可在Box3-tools获取
+* 145storage
+* 145lab
+
 ### 运行环境
 * Createra https://createra.fun
 * Dao3(推荐) https://dao3.fun
