@@ -1,2 +1,2 @@
 # battle-of-pens
-Dao3弹笔地图代码hash
+稳定的Dao3弹笔地图代码hash存储于hash.txt

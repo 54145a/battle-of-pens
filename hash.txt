@@ -1,5 +1,8 @@
-main.js QmRsBuBTZcjYn5hKn7p612Am2qifk2HHR8TxqKdXyTEaoK
+main.js QmdmRPjAHDRdFzKNgPvfQ24JFutD1KSWm862X1EaipNXUN
 pen.js QmRNtNeC9QDgoXaFxLXszgq2VSfhPm7jocqhPzxV56V789
-145player.js QmXThKKg2QfGVf7g36k3ELW7cUfn1KhU5uhB6oJ2j83TTa
-clientIndex.js QmUBVevsir4JpbRBNprgTnxikKixp9BGMFAvQGynpWvvR7
+145player.js QmRXeYy6MZMtwRMtZRzhr2Wf1vvXYEazU2bXz9JjAT1H5k
+clientIndex.js QmTxBTq7dMkVjJsx9Y942khJYFPBqRAwparozpZPLRT9Vj
 145storage.js 和 145match.js 可从 Box3-Tools 获取
+使用方法:
+static.box3.codemao.cn/block/abc.json
+把abc替换成你的hash
